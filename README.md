@@ -1,4 +1,5 @@
-## 📖 Lecture Notes:- https://cobalt-flannel-e18.notion.site/WebDev-Sem1-3c4688695e47801f905ae1aa46785f04
+## 📖 WebDev Lecture Notes:- https://cobalt-flannel-e18.notion.site/WebDev-Sem1-3c4688695e47801f905ae1aa46785f04
+## 📖 Prompt Engg Lecture Notes:- https://cobalt-flannel-e18.notion.site/Intro-to-AI-and-Prompt-Engineering-3c8688695e4780559800edaf88a9b6b9
 
 # Web Development Essentials 🚀
 
